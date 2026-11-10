@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>BLAMELESS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="An on-call shooter. 03:07, the pager goes off, prod is down and nobody else is awake.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="BLAMELESS: an on-call shooter">
+<meta property="og:description" content="03:07. The pager goes off, prod is down and nobody else is awake. Built by an AI from one prompt.">
+<meta property="og:image" content="https://blameless.petruha.ge/assets/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#000000">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Cpath d='M3 4l4 4-4 4M9 12h4' stroke='%2338ff87' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<canvas id="gl"></canvas>
+<div id="hud" hidden>
+  <div id="feed"></div>
+  <div id="inc">
+    <div id="inc-title"></div>
+    <div id="inc-bar" class="bar"><i></i></div>
+    <div id="boss" hidden><span id="boss-name"></span><div id="boss-bar" class="bar"><i></i></div></div>
+  </div>
+  <div id="top-right">
+    <div id="clock"></div>
+    <div id="score"></div>
+    <div id="combo"></div>
+    <canvas id="radar" width="132" height="132"></canvas>
+  </div>
+  <div id="budget"><label>ERROR BUDGET</label><div id="budget-bar" class="bar"><i></i></div><span id="budget-val"></span></div>
+  <div id="abilities">
+    <div id="ab-dash" class="ab"><b>SHIFT</b><span>dash</span><i></i></div>
+    <div id="ab-rollback" class="ab"><b>Q</b><span>rollback</span><i></i></div>
+    <div id="ab-sudo" class="ab"><b>F</b><span>sudo</span><i></i></div>
+  </div>
+  <div id="weapons"></div>
+  <div id="cross"><i class="t"></i><i class="b"></i><i class="l"></i><i class="r"></i><i class="dot"></i><div id="hitm"></div><div id="limit">429 TOO MANY REQUESTS</div></div>
+  <div id="dmg"></div>
+  <div id="big"></div>
+  <div id="sub"></div>
+  <div id="hint"></div>
+</div>
+<div id="screen"></div>
+<div id="fps" hidden></div>
+<script type="module" src="game.js"></script>
+</body>
+</html>

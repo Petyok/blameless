@@ -1,0 +1,28 @@
+{
+ "night": {
+  "seconds": 115,
+  "caption": "Global Metadata: Dark ambient, instrumental only, no vocals, no lyrics. 60 BPM, D minor. A low warm analog synth drone like a refrigerator humming in a dark apartment, slow lonely electric piano notes with long reverb, faint tape hiss, a soft distant pulse like a blinking standby light. Three in the morning, everyone is asleep, one laptop screen glows in the dark. Quiet, sleepy, uneasy, minimal, steady from start to end. A slow piece of about two minutes: a sparse intro, a slowly evolving middle, and a quiet outro that fades out naturally.",
+  "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Interlude]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Outro]\n[Instrumental]"
+ },
+ "act1": {
+  "seconds": 175,
+  "caption": "Global Metadata: Dark synthwave, instrumental only, no vocals, no lyrics. 118 BPM, E minor. A driving analog bass arpeggio, tight punchy electronic drums with a gated snare, cold glassy synth leads, short alarm-like stabs, sidechained pads. An exhausted engineer fighting broken software inside a server room in the middle of the night. Tense, focused, propulsive, cool, a steady groove from start to end. A full piece of about three minutes: a short pulsing intro, several building sections with a memorable lead melody, a brief breakdown, a final strong section and a clean outro."
+ },
+ "act2": {
+  "seconds": 170,
+  "caption": "Global Metadata: Drum and bass, neurofunk, instrumental only, no vocals, no lyrics. 172 BPM, F minor. Fast rolling breakbeat drums, a growling reese bass, acid synth lines, rising sirens, glitchy digital stutters. A flood of network traffic overwhelming a system, a chase through a datacenter. Urgent, relentless, high energy from start to end. A full piece of about three minutes: a short tense intro, a hard drop, several driving sections with variations, a brief breakdown, a second drop and a tight outro."
+ },
+ "act3": {
+  "seconds": 175,
+  "caption": "Global Metadata: Instrumental industrial techno, darksynth. 138 BPM, C minor. A pounding distorted four-on-the-floor kick drum, metallic clanking percussion, a heavy distorted bass riff, ominous detuned synth chords, mechanical noise sweeps and risers. The engine room of a huge old machine deep underground. Dark, heavy, hypnotic, relentless from start to end. A full instrumental track of about three minutes: a dark intro, several escalating sections, a tense breakdown, a crushing final section and a hard outro."
+ },
+ "boss": {
+  "seconds": 185,
+  "caption": "Global Metadata: Epic industrial metal with orchestra, instrumental only, no vocals, no lyrics. 150 BPM, D minor. Chugging distorted guitars, double-kick drums, huge brass hits, staccato strings, a pipe organ, aggressive synth arpeggios. The final battle against an ancient towering black machine that refuses to die. Massive, dramatic, furious, turning triumphant in the final minute. A full piece of about three minutes: an ominous intro, a furious main theme, an escalating middle, a heroic final section and a big ending hit."
+ },
+ "dawn": {
+  "seconds": 120,
+  "caption": "Global Metadata: Warm ambient, lo-fi, instrumental only, no vocals, no lyrics. 72 BPM, C major. Soft felt piano chords, a warm analog pad, gentle tape wobble, quiet birdsong at dawn, a slow soft kick like a calm heartbeat. The sun rises after a sleepless night, the incident is resolved, the coffee is getting cold. Relieved, tender, peaceful, hopeful, steady from start to end. A gentle piece of about two minutes: a quiet intro, a simple warm melody that develops slowly, and a calm outro that fades out naturally.",
+  "lyrics": "[Intro]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Chorus]\n[Instrumental]\n[Verse]\n[Instrumental]\n[Outro]\n[Instrumental]"
+ }
+}

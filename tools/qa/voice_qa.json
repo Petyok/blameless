@@ -1,0 +1,240 @@
+{
+ "call": {
+  "text": "This is an automated call from your pager. You have one triggered incident on service: production. Press enter to acknowledge.",
+  "heard": "This is an automated call from your pager. You have one triggered incident on service. Production, press enter to acknowledge.",
+  "similarity": 1.0,
+  "seconds": 6.86,
+  "bytes": 34084
+ },
+ "ack": {
+  "text": "Incident acknowledged. Good luck.",
+  "heard": "Incident acknowledged. Good luck!",
+  "similarity": 1.0,
+  "seconds": 2.16,
+  "bytes": 10514
+ },
+ "w1": {
+  "text": "Incident twenty thirty-one. Severity three. Zombie processes on node three.",
+  "heard": "Incident 2031, Severity 3, Zombie Processes on Node 3.",
+  "similarity": 1.0,
+  "seconds": 4.83,
+  "bytes": 24942
+ },
+ "w2": {
+  "text": "Incident twenty thirty-two. Fork bomb in the C I runner. Sig kill unlocked.",
+  "heard": "Incident 2032, fork bomb in the CI runner, sick hill unlocked.",
+  "similarity": 0.857,
+  "seconds": 4.77,
+  "bytes": 24879
+ },
+ "w3": {
+  "text": "Incident twenty thirty-three. Cron storm. They fire every three seconds.",
+  "heard": "Incident 2033, Cron Storm, they fire every three seconds.",
+  "similarity": 1.0,
+  "seconds": 4.26,
+  "bytes": 22034
+ },
+ "w4": {
+  "text": "Incident twenty thirty-four. Denial of service on the ingress. Grep unlocked.",
+  "heard": "Incident 2034. Denial of service on the ingress. Grep unlocked.",
+  "similarity": 1.0,
+  "seconds": 4.7,
+  "bytes": 24404
+ },
+ "w5": {
+  "text": "Incident twenty thirty-five. Race condition. Terminate both threads together.",
+  "heard": "Incident 2035, race condition, terminate both threads together.",
+  "similarity": 1.0,
+  "seconds": 4.63,
+  "bytes": 23877
+ },
+ "w6": {
+  "text": "Incident twenty thirty-six. Memory leak. Kill it before it runs out of memory.",
+  "heard": "Incident 2036, memory leak. Kill it before it runs out of memory.",
+  "similarity": 1.0,
+  "seconds": 4.92,
+  "bytes": 25570
+ },
+ "w7": {
+  "text": "Incident twenty thirty-seven. Heisenbug. It moves when observed. R M dash R F unlocked.",
+  "heard": "Incident 2037. Heisenberg. It moves when observed. RM-RF unlocked.",
+  "similarity": 0.867,
+  "seconds": 6.07,
+  "bytes": 31542
+ },
+ "w8": {
+  "text": "Incident twenty thirty-eight. Severity one. Cascading failure.",
+  "heard": "Incident 2038, severity one, cascading failure.",
+  "similarity": 1.0,
+  "seconds": 3.76,
+  "bytes": 19520
+ },
+ "w9": {
+  "text": "Incident twenty thirty-nine. Everything is on fire.",
+  "heard": "Incident 2039. Everything is on fire.",
+  "similarity": 1.0,
+  "seconds": 3.04,
+  "bytes": 15814
+ },
+ "boss": {
+  "text": "Root cause found. Legacy billing monolith. Last deployed: on a Friday.",
+  "heard": "Root cars found legacy-billing monolith last deployed on a Friday.",
+  "similarity": 0.909,
+  "seconds": 5.17,
+  "bytes": 26475
+ },
+ "shield": {
+  "text": "The monolith is shielded by its dependencies. Remove them.",
+  "heard": "The monolith is shielded by its dependencies. Remove them.",
+  "similarity": 1.0,
+  "seconds": 3.64,
+  "bytes": 18925
+ },
+ "shieldDown": {
+  "text": "Dependencies removed. The monolith is exposed.",
+  "heard": "Dependencies removed. The monolith is exposed.",
+  "similarity": 1.0,
+  "seconds": 3.08,
+  "bytes": 16249
+ },
+ "phase3": {
+  "text": "Warning. The monolith is loading more dependencies.",
+  "heard": "Warning, the monolith is loading more dependencies.",
+  "similarity": 1.0,
+  "seconds": 3.12,
+  "bytes": 16194
+ },
+ "bossDead": {
+  "text": "Monolith terminated. Exit code one three seven.",
+  "heard": "Monolith Terminated. Exit code 137.",
+  "similarity": 1.0,
+  "seconds": 3.37,
+  "bytes": 17482
+ },
+ "clear": {
+  "text": "Incident resolved.",
+  "heard": "Incident resolved.",
+  "similarity": 1.0,
+  "seconds": 1.3,
+  "bytes": 6499
+ },
+ "hotfix": {
+  "text": "A hotfix is available. Choose one.",
+  "heard": "A hotfix is available. Choose one.",
+  "similarity": 1.0,
+  "seconds": 2.29,
+  "bytes": 11469
+ },
+ "act2": {
+  "text": "Migrating to the message queue.",
+  "heard": "Migrating to the message queue.",
+  "similarity": 1.0,
+  "seconds": 1.92,
+  "bytes": 9332
+ },
+ "act3": {
+  "text": "Migrating to the primary database.",
+  "heard": "migrating to the primary database.",
+  "similarity": 1.0,
+  "seconds": 2.18,
+  "bytes": 11109
+ },
+ "rate": {
+  "text": "Rate limit exceeded.",
+  "heard": "Rate limit exceeded.",
+  "similarity": 1.0,
+  "seconds": 1.37,
+  "bytes": 6974
+ },
+ "budget50": {
+  "text": "Warning. Error budget at fifty percent.",
+  "heard": "Warning, error budget at 50%.",
+  "similarity": 1.0,
+  "seconds": 2.45,
+  "bytes": 12174
+ },
+ "budget25": {
+  "text": "Warning. Your error budget is almost gone.",
+  "heard": "Warning, your error budget is almost gone.",
+  "similarity": 1.0,
+  "seconds": 2.52,
+  "bytes": 12551
+ },
+ "rollback": {
+  "text": "Rollback complete.",
+  "heard": "Rollback complete.",
+  "similarity": 1.0,
+  "seconds": 1.27,
+  "bytes": 6239
+ },
+ "sudoReady": {
+  "text": "Sudo is available.",
+  "heard": "Pseudo is available.",
+  "similarity": 1.0,
+  "seconds": 1.22,
+  "bytes": 6356
+ },
+ "sudo": {
+  "text": "Sudo granted. With great power comes great responsibility.",
+  "heard": "Pseudo-granted, with great power comes great responsibility.",
+  "similarity": 1.0,
+  "seconds": 3.72,
+  "bytes": 19156
+ },
+ "hot": {
+  "text": "You are standing in the hot aisle.",
+  "heard": "You are standing in the hot aisle.",
+  "similarity": 1.0,
+  "seconds": 1.79,
+  "bytes": 8703
+ },
+ "breaker": {
+  "text": "Circuit breaker tripped.",
+  "heard": "Circuit breaker tripped.",
+  "similarity": 1.0,
+  "seconds": 1.29,
+  "bytes": 6575
+ },
+ "combo": {
+  "text": "Auto remediation streak.",
+  "heard": "Auto-remediation streak.",
+  "similarity": 1.0,
+  "seconds": 1.81,
+  "bytes": 9045
+ },
+ "dead": {
+  "text": "Connection lost. The on-call engineer is not responding. Escalating.",
+  "heard": "Connection lost. The on-call engineer is not responding. Escalating.",
+  "similarity": 1.0,
+  "seconds": 4.16,
+  "bytes": 21773
+ },
+ "win": {
+  "text": "All incidents resolved. The sun is coming up. You can go back to sleep.",
+  "heard": "All incidents resolved. The sun is coming up. You can go back to sleep.",
+  "similarity": 1.0,
+  "seconds": 4.12,
+  "bytes": 21580
+ },
+ "postmortem": {
+  "text": "This postmortem is blameless.",
+  "heard": "This post-mortem is blameless.",
+  "similarity": 1.0,
+  "seconds": 1.92,
+  "bytes": 9630
+ },
+ "night": {
+  "text": "Night shift. There is always another incident.",
+  "heard": "Night shift, there is always another incident.",
+  "similarity": 1.0,
+  "seconds": 2.68,
+  "bytes": 13662
+ },
+ "idle": {
+  "text": "Are you still there? Production is still down.",
+  "heard": "Are you still there? Production is still down.",
+  "similarity": 1.0,
+  "seconds": 2.72,
+  "bytes": 13388
+ }
+}

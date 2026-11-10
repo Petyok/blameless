@@ -1,0 +1,316 @@
+{
+ "tracks": {
+  "act1_s137": {
+   "seconds": 175.0,
+   "lufs": -14.7,
+   "lra": 7.3,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.133,
+   "heard_as": "dawn",
+   "raw_fit": 0.356,
+   "vocal_mean": 0.357,
+   "vocal_max": 0.633,
+   "intense": 0.69,
+   "wanted": 175,
+   "heard": [
+    "@91s p=0.63: Call, get nothing cold This ball in my door Call, get nothing cold",
+    "@111s p=0.61: Co-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o"
+   ],
+   "score": -0.081
+  },
+  "act1_s404": {
+   "seconds": 175.0,
+   "lufs": -14.7,
+   "lra": 4.0,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.723,
+   "heard_as": "act1",
+   "raw_fit": 0.449,
+   "vocal_mean": 0.201,
+   "vocal_max": 0.466,
+   "intense": 0.902,
+   "wanted": 175,
+   "heard": [
+    "@111s p=0.47: Work's the quest, and for best, cast a vassar to his vore de vore For the sun and on the door, there's a torch, this vore",
+    "@51s p=0.28: Because a bastard is for the fora For the sun, my door Let's set off, dance to you And for the so stirred"
+   ],
+   "score": 0.602
+  },
+  "act2_s137": {
+   "seconds": 170.0,
+   "lufs": -14.8,
+   "lra": 3.1,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.449,
+   "heard_as": "act2",
+   "raw_fit": 0.436,
+   "vocal_mean": 0.783,
+   "vocal_max": 0.948,
+   "intense": 0.993,
+   "wanted": 170,
+   "heard": [
+    "@71s p=0.95: Thanks for watching guys!",
+    "@0s p=0.93: I'll see you guys in the next video, bye!"
+   ],
+   "score": -0.021
+  },
+  "act2_s404": {
+   "seconds": 170.0,
+   "lufs": -14.7,
+   "lra": 3.5,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.326,
+   "heard_as": "act2",
+   "raw_fit": 0.356,
+   "vocal_mean": 0.348,
+   "vocal_max": 0.503,
+   "intense": 0.744,
+   "wanted": 170,
+   "heard": [
+    "@111s p=0.50: There is fallin', believe me where to go, the tar zone There is fallin', believe me where to go, the tar zone There is fallin', total divided situation",
+    "@51s p=0.49: There is fallin', believe me where to go The tour is on There is fallin', believe me where to go The tour is on There is fallin', believe me where to go The tou"
+   ],
+   "score": 0.117
+  },
+  "act2_s707": {
+   "seconds": 170.0,
+   "lufs": -13.8,
+   "lra": 6.2,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.553,
+   "heard_as": "act2",
+   "raw_fit": 0.347,
+   "vocal_mean": 0.732,
+   "vocal_max": 0.98,
+   "intense": 0.719,
+   "wanted": 170,
+   "heard": [
+    "@111s p=0.98: I have to say, I have to say To whole enemy of the same I have to say, I have to say",
+    "@11s p=0.95: Even when I have the fame, I have the fame"
+   ],
+   "score": 0.114
+  },
+  "act2_s909": {
+   "seconds": 170.0,
+   "lufs": -13.9,
+   "lra": 6.5,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.68,
+   "heard_as": "act2",
+   "raw_fit": 0.458,
+   "vocal_mean": 0.617,
+   "vocal_max": 0.939,
+   "intense": 0.831,
+   "wanted": 170,
+   "heard": [
+    "@31s p=0.94: I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can use, I can ",
+    "@0s p=0.78: Even for a second, you're so random, right?"
+   ],
+   "score": 0.31
+  },
+  "act3_s137": {
+   "seconds": 175.0,
+   "lufs": -15.4,
+   "lra": 7.0,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.103,
+   "heard_as": "act2",
+   "raw_fit": 0.393,
+   "vocal_mean": 0.644,
+   "vocal_max": 0.926,
+   "intense": 0.983,
+   "wanted": 175,
+   "heard": [
+    "@31s p=0.93: Thanks for watching, see you next time.",
+    "@111s p=0.89: Thanks for watching!"
+   ],
+   "score": -0.283
+  },
+  "act3_s404": {
+   "seconds": 175.0,
+   "lufs": -14.9,
+   "lra": 4.3,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.024,
+   "heard_as": "act2",
+   "raw_fit": 0.153,
+   "vocal_mean": 0.46,
+   "vocal_max": 0.984,
+   "intense": 0.864,
+   "wanted": 175,
+   "heard": [
+    "@0s p=0.98: Thanks for watching guys!",
+    "@71s p=0.66: Thanks for watching, see you next time!"
+   ],
+   "score": -0.252
+  },
+  "act3_s707": {
+   "seconds": 175.0,
+   "lufs": -14.8,
+   "lra": 7.5,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.005,
+   "heard_as": "act2",
+   "raw_fit": 0.147,
+   "vocal_mean": 0.22,
+   "vocal_max": 0.85,
+   "intense": 0.679,
+   "wanted": 175,
+   "heard": [
+    "@51s p=0.85: We've gained our trot, We've gained our trot But we've gained our trot Don't end to be gay We've gained our trot",
+    "@131s p=0.63: We will die, we will die, too We will die, don't end you, Vipa"
+   ],
+   "score": -0.127
+  },
+  "act3_s909": {
+   "seconds": 175.0,
+   "lufs": -14.4,
+   "lra": 4.2,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.037,
+   "heard_as": "act2",
+   "raw_fit": 0.296,
+   "vocal_mean": 0.386,
+   "vocal_max": 0.989,
+   "intense": 0.974,
+   "wanted": 175,
+   "heard": [
+    "@0s p=0.99: Thanks for watching!",
+    "@11s p=0.69: I'll see you guys in the next video, bye!"
+   ],
+   "score": -0.195
+  },
+  "boss_s137": {
+   "seconds": 125.2,
+   "lufs": -14.4,
+   "lra": 13.5,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.79,
+   "heard_as": "boss",
+   "raw_fit": 0.459,
+   "vocal_mean": 0.312,
+   "vocal_max": 0.564,
+   "intense": 0.878,
+   "wanted": 185,
+   "heard": [
+    "@71s p=0.56: Oh, I never, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, ever, eve",
+    "@51s p=0.56: No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, "
+   ],
+   "score": 0.574
+  },
+  "boss_s404": {
+   "seconds": 166.9,
+   "lufs": -13.3,
+   "lra": 9.4,
+   "silence_inside": 2.0,
+   "silence_tail": 0.0,
+   "fit": 0.666,
+   "heard_as": "boss",
+   "raw_fit": 0.38,
+   "vocal_mean": 0.394,
+   "vocal_max": 0.934,
+   "intense": 0.829,
+   "wanted": 185,
+   "heard": [
+    "@131s p=0.93: Siyamatigam Siyamatigam Siyamatigam Siyamatigam Siyamatigam",
+    "@51s p=0.72: She is the one, she is the one She is the one, she is the one She is the one, she is the one She is the one, she is the one She is the one, she is the one"
+   ],
+   "score": 0.39
+  },
+  "dawn_s137": {
+   "seconds": 120.0,
+   "lufs": -24.1,
+   "lra": 16.5,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.954,
+   "heard_as": "dawn",
+   "raw_fit": 0.492,
+   "vocal_mean": 0.209,
+   "vocal_max": 0.313,
+   "intense": 0.044,
+   "wanted": 120,
+   "heard": [
+    "@11s p=0.31: Thanks for watching!",
+    "@31s p=0.27: Thanks for watching!"
+   ],
+   "score": 0.829
+  },
+  "dawn_s404": {
+   "seconds": 105.2,
+   "lufs": -18.9,
+   "lra": 10.8,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.984,
+   "heard_as": "dawn",
+   "raw_fit": 0.519,
+   "vocal_mean": 0.501,
+   "vocal_max": 0.845,
+   "intense": 0.053,
+   "wanted": 120,
+   "heard": [
+    "@51s p=0.84: In the ocean unhoo-we-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-ee-",
+    "@71s p=0.64: In the ocean, unhoo-reee-reee In the ocean, unhoo-reee-reee"
+   ],
+   "score": 0.683
+  },
+  "night_s137": {
+   "seconds": 92.3,
+   "lufs": -17.4,
+   "lra": 7.9,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.066,
+   "heard_as": "dawn",
+   "raw_fit": 0.268,
+   "vocal_mean": 0.39,
+   "vocal_max": 0.808,
+   "intense": 0.409,
+   "wanted": 115,
+   "heard": [
+    "@71s p=0.81: internet, internet at all",
+    "@51s p=0.31: Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter, Enter,"
+   ],
+   "score": -0.168
+  },
+  "night_s404": {
+   "seconds": 115.0,
+   "lufs": -15.8,
+   "lra": 8.2,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.024,
+   "heard_as": "dawn",
+   "raw_fit": 0.234,
+   "vocal_mean": 0.075,
+   "vocal_max": 0.112,
+   "intense": 0.398,
+   "wanted": 115,
+   "heard": [
+    "@0s p=0.11: Thanks for watching!",
+    "@11s p=0.11: Thanks for watching, see you in the next video!"
+   ],
+   "score": -0.021
+  }
+ },
+ "pick": {
+  "night": "night_s404",
+  "act1": "act1_s404",
+  "act2": "act2_s909",
+  "act3": "act3_s707",
+  "boss": "boss_s137",
+  "dawn": "dawn_s137"
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "tracks": {
+  "act1": {
+   "seconds": 174.5,
+   "lufs": -16.3,
+   "lra": 3.9,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.784,
+   "heard_as": "act1",
+   "raw_fit": 0.47,
+   "vocal_mean": 0.184,
+   "vocal_max": 0.501,
+   "intense": 0.914,
+   "wanted": 175,
+   "languages": {
+    "english": 110.1
+   },
+   "lyrics": [
+    "[30s english] Vox, Viqui, Emphora, Taos, Gars, Avasset, His, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For, For",
+    "[60s english] For the sun, my door, blessed ocean, thanks to you, and for the so stard of it, in any state, trusted to the for that of you.",
+    "[90s english] Test, shift, start, test.",
+    "[117s english] Vokes vequeath and forebast Cast ever",
+    "[120s english] Vesset is for the fall.",
+    "[126s english] For the sun and on door.",
+    "[134s english] Vesset arch is for the views.",
+    "[142s english] Man is still, the fall that reveals.",
+    "[148s english] that",
+    "[150s english] of you, before that of you."
+   ],
+   "sung_seconds": 64,
+   "score": 0.564
+  },
+  "act2": {
+   "seconds": 170.0,
+   "lufs": -16.1,
+   "lra": 2.9,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.488,
+   "heard_as": "act2",
+   "raw_fit": 0.453,
+   "vocal_mean": 0.851,
+   "vocal_max": 0.975,
+   "intense": 0.993,
+   "wanted": 170,
+   "languages": {
+    "english": 96.0
+   },
+   "lyrics": [
+    "[30s english] Let's see.",
+    "[90s english] Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,",
+    "[120s english] No way, Spooker.",
+    "[148s english] No way, Spooker.",
+    "[150s english] No way, skunker",
+    "[154s english] No way, skunker"
+   ],
+   "sung_seconds": 93,
+   "score": -0.023
+  },
+  "act3": {
+   "seconds": 175.0,
+   "lufs": -15.8,
+   "lra": 3.3,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.022,
+   "heard_as": "act2",
+   "raw_fit": 0.29,
+   "vocal_mean": 0.384,
+   "vocal_max": 0.995,
+   "intense": 0.967,
+   "wanted": 175,
+   "languages": {
+    "english": 25.0
+   },
+   "lyrics": [
+    "[150s english] It should be."
+   ],
+   "sung_seconds": 25,
+   "score": -0.208
+  },
+  "boss": {
+   "seconds": 123.1,
+   "lufs": -14.7,
+   "lra": 10.1,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.849,
+   "heard_as": "boss",
+   "raw_fit": 0.469,
+   "vocal_mean": 0.347,
+   "vocal_max": 0.541,
+   "intense": 0.941,
+   "wanted": 185,
+   "languages": {
+    "chinese": 73.0
+   },
+   "lyrics": [
+    "[32s chinese] 初詞的夢言",
+    "[36s chinese] 十五年年",
+    "[40s chinese] 無緣十兩成奧奧",
+    "[60s chinese] 我才能得到我的家",
+    "[74s chinese] 我才能得到我的家",
+    "[79s chinese] 我才能得到我的家",
+    "[81s chinese] 我才能得到我的家",
+    "[83s chinese] 我才能得到我的家",
+    "[85s chinese] 我才能得到我的家",
+    "[86s chinese] 我才能得到我的家",
+    "[87s chinese] 我才能得到我的家",
+    "[88s chinese] 我才能得到我的家",
+    "[89s chinese] 我才能得到我的家",
+    "[90s chinese] 中文字幕志愿者 李宗盛"
+   ],
+   "sung_seconds": 70,
+   "score": 0.474
+  },
+  "dawn": {
+   "seconds": 120.0,
+   "lufs": -16.6,
+   "lra": 7.7,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.952,
+   "heard_as": "dawn",
+   "raw_fit": 0.433,
+   "vocal_mean": 0.261,
+   "vocal_max": 0.442,
+   "intense": 0.188,
+   "wanted": 120,
+   "languages": {},
+   "lyrics": [],
+   "sung_seconds": 0,
+   "score": 0.795
+  },
+  "night": {
+   "seconds": 115.0,
+   "lufs": -19.6,
+   "lra": 7.3,
+   "silence_inside": 0,
+   "silence_tail": 0.0,
+   "fit": 0.023,
+   "heard_as": "dawn",
+   "raw_fit": 0.256,
+   "vocal_mean": 0.043,
+   "vocal_max": 0.068,
+   "intense": 0.261,
+   "wanted": 115,
+   "languages": {},
+   "lyrics": [],
+   "sung_seconds": 0,
+   "score": -0.003
+  }
+ },
+ "pick": {
+  "night": "night",
+  "act1": "act1",
+  "act2": "act2",
+  "act3": "act3",
+  "boss": "boss",
+  "dawn": "dawn"
+ }
+}

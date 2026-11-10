@@ -1,0 +1,25 @@
+[Unit]
+Description=blameless.petruha.ge world stats and leaderboard (server/stats.py)
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/blameless-stats/stats.py
+Environment=HOST=127.0.0.1 PORT=8789
+DynamicUser=yes
+StateDirectory=blameless-stats
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+NoNewPrivileges=yes
+CapabilityBoundingSet=
+RestrictSUIDSGID=yes
+ProtectKernelTunables=yes
+ProtectControlGroups=yes
+LockPersonality=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+MemoryMax=128M
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

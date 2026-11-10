@@ -1,0 +1,9 @@
+node_modules/
+dist/
+e2e/out/
+ops/
+__pycache__/
+.dist-*
+.e2e-*
+.assets.tar
+*.b64

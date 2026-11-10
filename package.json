@@ -1,0 +1,21 @@
+{
+  "name": "blameless",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BLAMELESS: an on-call shooter (three.js)",
+  "scripts": {
+    "check": "tsc -p .",
+    "test": "node --test test/*.test.js",
+    "build": "node build.mjs",
+    "balance": "node tools/balance.mjs"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/three": "0.187.0",
+    "esbuild": "0.28.2",
+    "typescript": "7.0.2"
+  }
+}
